@@ -1,2 +1,6 @@
 # janetchen.github.io
-# personal website 
+ personal website 
+ 
+ # resources
+ http://jmcglone.com/guides/github-pages/
+ https://jekyllrb.com/
